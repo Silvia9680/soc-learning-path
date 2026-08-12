@@ -1,0 +1,20 @@
+# SOC L1 Alert Triage
+**Plataforma:** TryHackMe  
+**Categoría:** SOC / Blue Team  
+
+## ¿De qué trataba?
+Introducción al proceso de triaje de alertas en un entorno SOC de nivel 1.
+Cubre cómo un analista recibe, evalúa y prioriza alertas de seguridad.
+
+## Conceptos clave aprendidos
+- Qué es el triaje de alertas y por qué es crítico en un SOC
+- Cómo clasificar alertas por severidad (falso positivo, verdadero positivo)
+- Flujo de trabajo básico de un analista SOC L1
+- Cuándo escalar una alerta a un nivel superior
+
+## Herramientas / técnicas mencionadas
+- SIEM para visualización de alertas
+- Tickets de incidentes
+
+## Reflexión personal
+-Fue mi primera experiencia con modelos de alertas en el que pude acercarme al trabajo de un Analista SOC y las diferencias entre los diferentes niveles.
