@@ -44,4 +44,9 @@ documentando el camino de forma práctica y organizada.
 | `certificaciones/` | Apuntes de certificaciones |
 | `recursos/` | Links, cheatsheets y referencias útiles |
 
+### LetsDefend
+| Módulo | Estado |
+|--------|--------|
+| SOC Fundamentals | ✅ Completado |
+
 ## 🗓️ Actualizado regularmente mientras avanzo en mi formación.
