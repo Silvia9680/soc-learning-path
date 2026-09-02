@@ -49,4 +49,9 @@ documentando el camino de forma práctica y organizada.
 |--------|--------|
 | SOC Fundamentals | ✅ Completado |
 
+### Cursos
+| Curso | Plataforma | Estado |
+|-------|------------|--------|
+| SOC: Introducción a las Operaciones de Seguridad en Empresas | Udemy | ✅ Completado |
+
 ## 🗓️ Actualizado regularmente mientras avanzo en mi formación.
